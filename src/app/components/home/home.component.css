@@ -1,0 +1,19 @@
+.homePicContainer {
+  height: 100%;
+  z-index: -1;
+  position: absolute;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+
+.buttonContainer{
+    position: absolute;
+    bottom: 5vh;
+    left: 50%;
+    transform: translateX(-50%);
+}
